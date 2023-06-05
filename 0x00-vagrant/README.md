@@ -1,0 +1,1 @@
+When you run 'uname' without any option it will print the kernel name
